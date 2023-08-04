@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @secuana
 - 👀 I’m interested in music,movies...
-- 🌱 I’m currently learning C
+- 🌱 I’m currently learning C,C++ at university and JS by myself.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me *goncuamg@gmail.com*
 
